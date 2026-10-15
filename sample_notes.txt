@@ -1,0 +1,34 @@
+
+Artificial Intelligence
+
+Artificial Intelligence, commonly known as AI, is a branch
+of computer science that focuses on creating machines
+capable of performing tasks that usually require human
+intelligence.
+
+Machine learning is a part of artificial intelligence.
+It allows computers to learn patterns from data and make
+predictions without being explicitly programmed for every
+individual task.
+
+Deep learning is a specialized area of machine learning
+that uses artificial neural networks with multiple layers.
+It is widely used in image recognition, speech recognition,
+natural language processing, and other applications.
+
+Natural Language Processing, or NLP, enables computers
+to understand, process, and generate human language.
+Examples include chatbots, language translation, and text
+summarization.
+
+Text summarization is an NLP task that converts long
+documents into shorter versions while preserving their
+main ideas. AI Notes Summarizer uses a pretrained language
+model to produce concise summaries of study materials.
+
+Artificial intelligence is used in education, healthcare,
+agriculture, transportation, and many other fields.
+It helps automate repetitive tasks and supports decision
+making. However, AI systems can make mistakes, so their
+outputs should be reviewed before being used for important
+decisions.
